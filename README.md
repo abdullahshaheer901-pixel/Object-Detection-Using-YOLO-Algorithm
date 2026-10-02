@@ -288,7 +288,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) — YOLO implementation
 - [OpenCV](https://opencv.org/) — Computer vision library
